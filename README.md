@@ -108,6 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **BRIAN ANYASI** - [anyasijohn260@gmail.com]
 * **LERIONKA FELIX** - [lerionkafelix8@gmail.com](https://github.com/LerionkaFelix)
-
+* **BRIAN ANYASI** - [anyasijohn260@gmail.com]
